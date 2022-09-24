@@ -518,6 +518,13 @@ a.reqe-button {
     #top_nav{
         display: none;   
     }
+    #main-top{
+        display: none;
+    }
+    #mmm{
+        position: fixed;
+        width: 100%;
+    }
 }
 
 @media all and (max-width : 375px) {
